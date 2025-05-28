@@ -1,0 +1,40 @@
+.tere-footer {
+    margin-top: 200px;
+    background-color: white;
+}
+
+.logo-footer {
+    width: 120px;
+}
+
+.footer-title {
+    font-weight: 500;
+    font-size: 22px;
+    color: #272042;
+    margin-bottom: 10px;
+}
+
+.footer-text {
+    color: #8B8BA5;
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+
+.codematics {
+    margin-top: 38px;
+    color: #75BF7A;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.linha-horizontal {
+    margin-top: 38px;
+    height: 1px;
+    width: 100vw;
+    background: #ECECEC;
+    left: 50%;
+    position: relative;
+    transform: translateX(-50%);
+}

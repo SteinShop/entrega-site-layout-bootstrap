@@ -1,0 +1,277 @@
+.bold{
+    font-weight: 500;
+    font-size: 17px
+}
+.download {
+    margin-top: 201px;
+}
+
+.download h2 {
+    font-weight: 800;
+    font-size: 60.73px;
+    width: 557px;
+    height: 198px;
+    color: #000000;
+    white-space: nowrap;
+}
+
+.download p {
+    margin-top: 27px;
+    margin-bottom: 62px;
+    color: #9E9DA2;
+}
+
+.viagem {
+    padding: 105px 147px 85px 103px;
+}
+
+.green-caixa {
+    background-color: #75BF7A;
+    margin-top: 86px;
+    min-width: 1280px;
+    min-height: 166px;
+    border-radius: 8px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Let-link {
+    margin: 55px 100px 55px 72px;
+    width: 600px;
+    font-size: 24.6px;
+}
+
+.input-number {
+    border-radius: 5px;
+    min-width: 499px;
+    min-height: 67px;
+    margin: 50px 11px 49px 122px;
+    padding: 0px 35px 0px 20px;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+
+.input-number::placeholder {
+    color: #DADADA;
+    font-size: 20px;
+}
+
+.how-tere-works {
+    margin-top: 128px;
+}
+
+.how-tere-works h1 {
+    font-weight: 800;
+}
+
+.how-tere-works h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.green-text {
+    color: #75BF7A;
+}
+
+
+.text-app {
+    font-weight: 500;
+    font-size: 23px;
+    margin-top: 25px;
+}
+
+.works h3 {
+    font-weight: 800;
+}
+
+.works p {
+    color: #9E9DA2
+}
+
+.celular {
+    width: 880px;
+    height: 560px;
+    margin-top: 63px;
+    margin-left: 40px;
+    margin-right: 40px;
+    display: block;
+}
+
+.how-esquerda {
+    margin-top: 128px;
+}
+
+.p-request-ride{
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 55px; 
+    white-space: nowrap;
+}
+
+.shopping {
+    margin-left: 146px;
+}
+
+.suits {
+    margin-left: 107px;
+}
+
+.h3-request-ride {
+    font-weight: 800;
+    margin-top: 4px;
+    margin-left: 120px;
+    white-space: nowrap;
+}
+
+.h3-instant-notifications {
+    margin-top: 4px;
+}
+
+.p-instant-notifications{
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 60px;
+}
+
+.number-one,.number-three {
+    margin-left: 280px;
+}
+
+.number-two,.number-four {
+    margin-right: 280px;
+}
+
+.number-four{
+    margin-top: 30px;
+}
+
+.how-direita {
+    margin-top: 128px;
+}
+
+.h3-post {
+    margin-top: 4px;
+    margin-right: 180px;
+}
+
+.p-post{
+    margin-right: 50px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.p-cashless{
+    margin-right: 50px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.h3-cashless {
+    margin-right: 68px;
+    white-space: nowrap;
+}
+
+.tere-benefits h1 {
+    font-weight: 800;
+    font-size: 46px;
+    margin-top: 160px;
+    margin-bottom: 52px;
+}
+.bloco-1{
+    margin-top: 52px;
+}
+.bloco-2{
+    margin-top: 120px;
+}
+
+.bloco-3{
+    margin-top: 120px;
+}
+.topo-one {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-left: 36px;
+}
+.topo-one h2{
+    font-weight: 600;
+    margin-left: 39px;
+}
+
+.benefit-desc-one {
+    font-weight: 500;
+    font-size: 22px;
+    margin-top: 15px;
+    margin-left: 40px;
+}
+
+.img-tempo {
+    margin-left: 150px;
+}
+
+.topo-two {
+    margin-left: 190px;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+}
+
+.topo-two h2{
+    margin-left: 23px;
+}
+
+.benefit-desc-two{
+    font-weight: 500;
+    font-size: 22px;
+    margin-left: 196px;
+    margin-top: 15px;
+}
+.dinheiro{
+    margin-left: 250px;
+}
+.topo-three {
+    margin-left: 36px;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.benefit-desc-three{
+    font-weight: 500;
+    font-size: 22px;
+    margin-left: 40px;
+    white-space: nowrap;
+    margin-top: 15px;
+
+}
+.pessoa-notebook{
+    margin-left: 79px;
+}
+.benefit-block {
+    display: flex;
+    flex-direction: column;
+}
+
+.tere-verde {
+    color: #75BF7A;
+}
+
+.tere-benefits h2 {
+    font-size: 33px;
+    color: #000000;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.benefit-title {
+    font-size: 24px;
+    color: #000000;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.tere-benefits p {
+    color: #9E9DA2;
+}
